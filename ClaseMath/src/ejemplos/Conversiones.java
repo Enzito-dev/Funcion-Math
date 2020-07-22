@@ -32,5 +32,21 @@ public class Conversiones {
                 System.out.println("intente nuevamente, y seleccione 1 o 2");
             }
         }
+        /*
+        switch (select) {
+
+            case 1:
+                // Codigo 
+                break;
+
+            case 2:
+                // Codigo 2 
+                break;
+
+            default:
+                // Codigo que se ejecuta si select vale cualquier otra cosa 
+                break;
+        }
+         */
     }
 }
